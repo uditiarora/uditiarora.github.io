@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://uditiarora.github.io/sitemap.xml
+Host: https://uditiarora.github.io
