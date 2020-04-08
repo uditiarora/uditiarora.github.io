@@ -81,13 +81,8 @@ const Hero = ({ data }) => {
       dangerouslySetInnerHTML={{ __html: html }}
     />
   );
-  const five = () => (
-    <div style={{ transitionDelay: '500ms' }}>
-      <StyledEmailLink href={`mailto:${email}`}>Get In Touch</StyledEmailLink>
-    </div>
-  );
 
-  const items = [one, two, three, four, five];
+  const items = [one, two, three, four];
 
   return (
     <StyledContainer>

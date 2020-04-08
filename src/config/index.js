@@ -1,38 +1,37 @@
 module.exports = {
   siteTitle: 'Uditi Arora | Software Engineer',
-  siteDescription:
-    'Uditi Arora is a software engineer based in Boston, MA who specializes in developing (and occasionally designing) exceptional, high-quality websites and applications.',
+  siteDescription: 'Uditi Arora is a software engineer based ',
   siteKeywords:
-    'Brittany Chiang, Brittany, Chiang, bchiang7, software engineer, front-end engineer, web developer, javascript, northeastern',
-  siteUrl: 'https://brittanychiang.com',
+    'Uditi Arora, Uditi, Arora, uditiarora, software engineer, front-end engineer, web developer, javascript, MNIT',
+  siteUrl: 'https://uditiarora.github.io',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Brittany Chiang',
-  location: 'Boston, MA',
-  email: 'brittany.chiang@gmail.com',
-  github: 'https://github.com/bchiang7',
-  twitterHandle: '@bchiang7',
+  name: 'Uditi Arora',
+  location: 'Bangalore, India',
+  email: 'uditiarora@gmail.com',
+  github: 'https://github.com/uditiarora',
+  twitterHandle: '@uditiarora',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/bchiang7',
+      url: 'https://github.com/uditiarora',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bchiang7',
+      url: 'https://www.linkedin.com/in/uditi-arora',
     },
     {
       name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
+      url: 'https://codepen.io/uditiarora',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7',
+      url: 'https://www.instagram.com/uditiarora',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
+      url: 'https://twitter.com/uditiarora',
     },
   ],
 
@@ -50,7 +49,7 @@ module.exports = {
       url: '/#projects',
     },
     {
-      name: 'Contact',
+      name: 'Skills',
       url: '/#contact',
     },
   ],
