@@ -1,10 +1,10 @@
 const theme = {
   colors: {
     dark: '#000000',
-    darkestNavy: '#1a1a1d',
+    darkestNavy: '#000000',
     darkNavy: '#1a1a1d',
     navy: '#1a1a1d',
-    lightNavy: '#1a1a1d',
+    lightNavy: '#2B2B30',
     darkGrey: '#435170',
     mediumGrey: '#46587E',
     grey: '#5E6B8B',
@@ -17,7 +17,7 @@ const theme = {
     pink: '#FF647F',
     yellow: '#FFC464',
     orange: '#FF9E64',
-    green: '#950740',
+    green: '#c3073f',
     blue: '#1a1a1d',
     darkBlue: '#1a1a1d',
     highlight: 'rgba(41, 61, 90, 0.99)',

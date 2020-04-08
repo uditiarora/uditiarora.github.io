@@ -7,13 +7,13 @@ const IconLogo = () => (
       <g transform="translate(11.000000, 5.000000)">
         <polygon
           id="Shape"
-          stroke="#950740"
+          stroke="#c3073f"
           strokeWidth="5"
           strokeLinecap="round"
           strokeLinejoin="round"
           points="39 0 0 22 0 67 39 90 78 68 78 23"
         />
-        <text x="15" y="60" fontSize="40" fill="#950740">
+        <text x="15" y="60" fontSize="40" fill="#c3073f">
           UA
         </text>
       </g>
