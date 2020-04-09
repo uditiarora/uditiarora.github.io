@@ -1,3 +1,8 @@
 ---
 company: 'Frameworks'
----- React
+---
+
+- React
+- MySQL
+- Node
+- Spark

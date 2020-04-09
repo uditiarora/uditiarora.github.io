@@ -62,20 +62,18 @@ const StyledGitHubInfo = styled.div`
   }
 `;
 
-const Footer = () => {
-  return (
-    <StyledContainer>
-      <StyledMetadata tabindex="-1">
-        <StyledGitHubLink
-          href="https://github.com/uditiarora/uditiarora.github.io"
-          target="_blank"
-          rel="nofollow noopener noreferrer">
-          <div>Designed &amp; Built by Uditi Arora</div>
-        </StyledGitHubLink>
-      </StyledMetadata>
-    </StyledContainer>
-  );
-};
+const Footer = () => (
+  <StyledContainer>
+    <StyledMetadata tabindex="-1">
+      <StyledGitHubLink
+        href="https://github.com/uditiarora/uditiarora.github.io"
+        target="_blank"
+        rel="nofollow noopener noreferrer">
+        <div>Designed &amp; Built by Uditi Arora</div>
+      </StyledGitHubLink>
+    </StyledMetadata>
+  </StyledContainer>
+);
 
 Footer.propTypes = {
   githubInfo: PropTypes.object,

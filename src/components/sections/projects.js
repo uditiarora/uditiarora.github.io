@@ -127,7 +127,7 @@ const StyledMoreButton = styled(Button)`
 `;
 
 const Projects = ({ data }) => {
-  const [showMore, setShowMore] = useState(false);
+  const [showMore, setShowMore] = useState(true);
   const revealTitle = useRef(null);
   const revealArchiveLink = useRef(null);
   const revealProjects = useRef([]);
@@ -210,10 +210,6 @@ const Projects = ({ data }) => {
             })}
         </TransitionGroup>
       </StyledGrid>
-
-      <StyledMoreButton onClick={() => setShowMore(!showMore)}>
-        Show {showMore ? 'Less' : 'More'}
-      </StyledMoreButton>
     </StyledContainer>
   );
 };

@@ -1,7 +1,10 @@
 ---
 company: 'Languages'
----- Java
+---
+
+- Java
 - Scala
 - Python3
 - HTML
 - CSS
+- JavaScript
