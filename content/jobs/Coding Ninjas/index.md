@@ -1,6 +1,6 @@
 ---
 date: '2017-12-10'
-title: 'Problem Setter and CUrator'
+title: 'Problem Setter and Curator'
 company: 'Coding Ninjas'
 location: 'Delhi, India'
 range: 'Dec 2017 - Jan 2018'
