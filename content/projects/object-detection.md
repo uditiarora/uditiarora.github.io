@@ -1,6 +1,6 @@
 ---
 date: '2020-03-04'
-title: 'Object Detection'
+title: 'Real Time Object Detection'
 github: 'https://github.com/uditiarora/ObjectDetection'
 external: ''
 tech:
