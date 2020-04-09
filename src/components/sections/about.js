@@ -63,7 +63,8 @@ const StyledPic = styled.div`
 const StyledAvatar = styled(Img)`
   position: relative;
   mix-blend-mode: multiply;
-  filter: grayscale(100%) contrast(1);
+  filter: none;
+  mix-blend-mode: normal;
   border-radius: ${theme.borderRadius};
   transition: ${theme.transition};
 `;
