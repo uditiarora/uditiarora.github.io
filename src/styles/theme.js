@@ -9,7 +9,7 @@ const theme = {
     mediumGrey: '#46587E',
     grey: '#5E6B8B',
     lightGrey: '#7783A5',
-    slate: '#45a29e',
+    slate: '#ffffff',
     lightSlate: '#E0E5F8',
     lightestSlate: '#E3E5F0',
     offWhite: '#D6DEF8',
