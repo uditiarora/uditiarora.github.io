@@ -4,7 +4,7 @@ const IconLoader = () => (
   <svg
     height="200"
     width="200"
-    stroke="#c3073f"
+    stroke="#66fcf1"
     viewBox="0 0 57 57"
     xmlns="http://www.w3.org/2000/svg"
     aria-label="logo">
