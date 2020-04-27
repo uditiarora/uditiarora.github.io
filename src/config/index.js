@@ -33,6 +33,10 @@ module.exports = {
       name: 'Twitter',
       url: 'https://twitter.com/uditiarora',
     },
+    {
+      name: 'Kaggle',
+      url: 'https://kaggle.com/uditiarora',
+    },
   ],
 
   navLinks: [
