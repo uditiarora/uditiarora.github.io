@@ -19,7 +19,7 @@ module.exports = {
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/uditi-arora',
+      url: 'https://www.linkedin.com/in/uditiarora',
     },
     {
       name: 'Codepen',
