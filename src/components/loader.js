@@ -21,7 +21,7 @@ const StyledContainer = styled.div`
 `;
 const StyledLogo = styled.div`
   width: max-content;
-  max-width: 100px;
+  max-width: 200px;
   transition: ${theme.transition};
   opacity: ${props => (props.isMounted ? 1 : 0)};
   svg {
