@@ -2,8 +2,8 @@ import React from 'react';
 
 const IconLoader = () => (
   <svg
-    height="200"
-    width="200"
+    height="100"
+    width="100"
     stroke="#66fcf1"
     viewBox="0 0 57 57"
     xmlns="http://www.w3.org/2000/svg"
