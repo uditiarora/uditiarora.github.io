@@ -121,11 +121,15 @@ export const pageQuery = graphql`
         }
       }
     }
-    contact: allMarkdownRemark(filter: { fileAbsolutePath: { regex: "/contact/" } }) {
+    contact: allMarkdownRemark(
+      filter: { fileAbsolutePath: { regex: "/contact/" } }
+      sort: { fields: [frontmatter___number], order: DESC }
+    ) {
       edges {
         node {
           frontmatter {
             company
+            number
           }
           html
         }

@@ -1,5 +1,6 @@
 ---
 company: 'Languages'
+number: 4
 ---
 
 - Java
@@ -8,3 +9,5 @@ company: 'Languages'
 - HTML
 - CSS
 - JavaScript
+- C
+- C++
