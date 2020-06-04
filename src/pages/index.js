@@ -16,8 +16,8 @@ const IndexPage = ({ location, data }) => (
       <About data={data.about.edges} />
       <Jobs data={data.jobs.edges} />
 
-      <Projects data={data.projects.edges} />
       <Contact data={data.contact.edges} />
+      <Projects data={data.projects.edges} />
     </StyledMainContainer>
   </Layout>
 );

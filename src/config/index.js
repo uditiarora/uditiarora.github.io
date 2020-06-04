@@ -49,12 +49,12 @@ module.exports = {
       url: '/#jobs',
     },
     {
-      name: 'Work',
-      url: '/#projects',
-    },
-    {
       name: 'Skills',
       url: '/#contact',
+    },
+    {
+      name: 'Work',
+      url: '/#projects',
     },
   ],
 
