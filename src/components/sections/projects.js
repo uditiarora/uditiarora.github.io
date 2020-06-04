@@ -144,7 +144,7 @@ const Projects = ({ data }) => {
   const projectsToShow = showMore ? projects : firstSix;
 
   return (
-    <StyledContainer>
+    <StyledContainer id="projects">
       <Heading ref={revealTitle}>Some Things I&apos;ve Built</Heading>
 
       <StyledGrid>

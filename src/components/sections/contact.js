@@ -194,7 +194,7 @@ const Contact = ({ data }) => {
   };
 
   return (
-    <StyledContainer id="contact" ref={revealContainer}>
+    <StyledContainer id="skills" ref={revealContainer}>
       <Heading>Some of my Skills</Heading>
       <StyledTabs>
         <StyledTabList role="tablist" aria-label="Job tabs" onKeyDown={e => onKeyPressed(e)}>

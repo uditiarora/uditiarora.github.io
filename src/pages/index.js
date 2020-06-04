@@ -102,6 +102,22 @@ export const pageQuery = graphql`
         }
       }
     }
+    
+    contact: allMarkdownRemark(
+      filter: { fileAbsolutePath: { regex: "/contact/" } }
+      sort: { fields: [frontmatter___number], order: DESC }
+    ) {
+      edges {
+        node {
+          frontmatter {
+            company
+            number
+          }
+          html
+        }
+      }
+      
+    }
     projects: allMarkdownRemark(
       filter: {
         fileAbsolutePath: { regex: "/projects/" }
@@ -116,20 +132,6 @@ export const pageQuery = graphql`
             tech
             github
             external
-          }
-          html
-        }
-      }
-    }
-    contact: allMarkdownRemark(
-      filter: { fileAbsolutePath: { regex: "/contact/" } }
-      sort: { fields: [frontmatter___number], order: DESC }
-    ) {
-      edges {
-        node {
-          frontmatter {
-            company
-            number
           }
           html
         }

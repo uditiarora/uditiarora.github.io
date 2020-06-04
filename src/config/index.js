@@ -50,7 +50,7 @@ module.exports = {
     },
     {
       name: 'Skills',
-      url: '/#contact',
+      url: '/#skills',
     },
     {
       name: 'Work',
