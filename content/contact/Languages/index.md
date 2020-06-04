@@ -9,5 +9,3 @@ number: 4
 - HTML
 - CSS
 - JavaScript
-- C
-- C++
