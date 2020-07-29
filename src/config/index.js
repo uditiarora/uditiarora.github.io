@@ -6,7 +6,7 @@ module.exports = {
   siteUrl: 'https://uditiarora.github.io',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
-  googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
+  googleVerification: 'zbzsiB_bO1hgdm2s9sMIB92o0863vEMTBCII4k9dhHs',
   name: 'Uditi Arora',
   location: 'Bangalore, India',
   email: 'uditiarora@gmail.com',
