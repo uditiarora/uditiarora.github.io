@@ -2,10 +2,9 @@ module.exports = {
   siteTitle: 'Uditi Arora | Software Engineer',
   siteDescription: 'Uditi Arora is a software engineer based ',
   siteKeywords:
-    'Uditi Arora, Uditi, Arora, uditiarora, software engineer, front-end engineer, web developer, javascript, MNIT',
+    'Uditi Arora, Uditi, Arora, uditi arora, uditiarora, software engineer, front-end engineer, web developer, javascript, MNIT',
   siteUrl: 'https://uditiarora.github.io',
   siteLanguage: 'en_US',
-  googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'zbzsiB_bO1hgdm2s9sMIB92o0863vEMTBCII4k9dhHs',
   name: 'Uditi Arora',
   location: 'Bangalore, India',
